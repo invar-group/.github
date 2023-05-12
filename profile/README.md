@@ -1,4 +1,4 @@
-﻿# About Us
+﻿# About Invar Group
 We are a specialist organisation in the warehouse software, automation and controls sector offering clients seamlessly integrated intralogistics solutions.
 
 ## Invar Systems
